@@ -1,6 +1,6 @@
-module github.com/go-audio/wav
+module github.com/vvaudio/go-audio-wav
 
-go 1.13
+go 1.19.5
 
 require (
 	github.com/go-audio/aiff v1.0.0
